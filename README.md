@@ -89,10 +89,3 @@ I build scalable systems, clean RESTful APIs, and role-based access control arch
 
 - **Volunteer Back-End Developer**  
   Office of Entrepreneurship and Innovation – University of Tripoli
-
----
-
-## 📊 GitHub Stats (Optional)
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
